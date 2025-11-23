@@ -1,0 +1,9 @@
+# virtual environment
+.venv
+
+# password
+user_key.txt
+
+# pycache
+__pycache__
+
