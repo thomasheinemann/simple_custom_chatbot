@@ -43,5 +43,5 @@ data
 README.md
 requirements.txt                     # list of packages covering a working configuration
 simple_custom_chatbot.ipynb          # main Jupyter Notebook
-user_key.txt                         # OpenAI API Key in UTF-8-Encoding
+user_key.txt                         # OpenAI API Key in UTF-8-Encoding - currently not used but can be activated by uncommenting
 ```
